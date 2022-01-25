@@ -1,0 +1,79 @@
+{
+  "ConvolutionInputGenerator1D_0": {
+    "BRAM_18K": "0",
+    "FF": "346",
+    "LUT": "1290",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingFCLayer_Batch_0": {
+    "BRAM_18K": "0",
+    "FF": "2285",
+    "LUT": "7924",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "ConvolutionInputGenerator1D_1": {
+    "BRAM_18K": "0",
+    "FF": "2625",
+    "LUT": "1290",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingFCLayer_Batch_1": {
+    "BRAM_18K": "0",
+    "FF": "4769",
+    "LUT": "12304",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingMaxPool_Batch_0": {
+    "BRAM_18K": "0",
+    "FF": "1573",
+    "LUT": "1732",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "ConvolutionInputGenerator1D_2": {
+    "BRAM_18K": "0",
+    "FF": "3483",
+    "LUT": "861",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingFCLayer_Batch_2": {
+    "BRAM_18K": "0",
+    "FF": "3722",
+    "LUT": "8342",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "ConvolutionInputGenerator1D_3": {
+    "BRAM_18K": "0",
+    "FF": "1819",
+    "LUT": "861",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingFCLayer_Batch_3": {
+    "BRAM_18K": "0",
+    "FF": "3011",
+    "LUT": "8090",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingMaxPool_Batch_1": {
+    "BRAM_18K": "0",
+    "FF": "801",
+    "LUT": "1009",
+    "DSP48E": "0",
+    "URAM": "0"
+  },
+  "StreamingFCLayer_Batch_4": {
+    "BRAM_18K": "0",
+    "FF": "3828",
+    "LUT": "9981",
+    "DSP48E": "0",
+    "URAM": "0"
+  }
+}
