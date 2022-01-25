@@ -1,7 +1,7 @@
 ## ECG Classifier base on PYNQ-Z2 by using FINN Compiler
 
 ### Training
-`./ecg` is modify from [this]("https://github.com/lxdv/ecg-classification").
+`./ecg` is modify from [https://github.com/lxdv/ecg-classification]("https://github.com/lxdv/ecg-classification").
 
 * Put mit-bih data to folder `./ecg/mitbih`
 * Run `python ./scripts/annotation-generation-1d.py`
@@ -11,7 +11,7 @@
 * And get the `.pth` in the experiments folder
 
 ### Finn compile
-* Build finn environment on xilinx [page]("https://github.com/Xilinx/finn").
+* Build finn environment on xilinx [https://github.com/Xilinx/finn]("https://github.com/Xilinx/finn").
 
 * And run `finn_compile.ipynb`.
 
